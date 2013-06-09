@@ -14,17 +14,22 @@ h1 {
 }
 
 .text-allign-right {
-    float:right;  
+    float:right;
     display:inline-block;
 }
 
 .text-allign-left {
-    float:left;    
+    float:left;
     display:inline-block;
+    margin-left:25px;
 }
 
 .text-allign-center {   
     text-align: center;        
+}
+
+.text-color {
+    text-decoration-color: #5a92e7;
 }
 
 .bullets {
@@ -35,20 +40,30 @@ h1 {
     background-color:#b4a8a8;
 }
 
-.row {
+.top-row {
     clear:both;
     margin-top:5px;
     margin-bottom:5px;
 }
 
-.row2 {
+.bottom-row {
     clear:both;
 }
 
-ul {
+.objectives {
+    
     list-style-type: disc;
+    color: #5a92e7;
 }
 
 .text-bold {
     font-weight: bold;
+}
+
+.before-spacing {
+    width:160px;
+}
+
+.spacing {
+    width: 200px;    
 }
