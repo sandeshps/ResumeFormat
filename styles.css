@@ -31,14 +31,9 @@ h1 {
     background-color:#b4a8a8;
 }
 
-.row1 {
+.row {
     clear:both;
     margin-top:5px;
-    margin-bottom:5px;
-}
-
-.row2 {
-    clear:both;
     margin-bottom:5px;
 }
 
