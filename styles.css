@@ -24,15 +24,23 @@ h1 {
 }
 
 .bullets {
-    text-emphasis-style:dot;
+    text-emphasis-style: circle;
 }
 
 .border-fill {
     background-color:#b4a8a8;
 }
 
-.row {
+.row1 {
     clear:both;
     margin-top:5px;
     margin-bottom:5px;
+}
+
+.row2 {
+    clear:both;
+}
+
+ul {
+    list-style-type: disc;
 }
