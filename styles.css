@@ -19,11 +19,11 @@ h1 {
 }
 
 .text-allign-left {
-    float:left;
+    float:left;    
     display:inline-block;
 }
 
-.text-allign-center {
+.text-allign-center {   
     text-align: center;        
 }
 
